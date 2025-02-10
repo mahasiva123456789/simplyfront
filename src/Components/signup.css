@@ -1,0 +1,106 @@
+.useraccount-conatiner{
+    width: 100%;
+   height: 95vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.login-signup-container{
+    display: flex;
+    width: 50%;
+    height: 440px;
+    background-color: white;
+    box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
+}
+   
+
+.accountsubmit{
+    padding: 15px;
+}
+.login-image-con{
+    width: 50%;
+    background-image: url(https://i.pinimg.com/736x/b9/ad/88/b9ad8864d73381ce661665bc9c5477eb.jpg);
+    background-repeat: no-repeat; 
+    background-size: cover; 
+    background-position: center;
+}
+.login-image-con img{
+  width: 100%;
+  height: 100%;
+}
+.login-signup-h2 {
+    margin-top: 30px;
+    margin-bottom: 20px;
+    color: #333;
+    padding-left: 40px
+  }
+  
+  .login-signup-p {
+    color: #777;
+    
+  }
+  .login-signup-p a{
+    text-decoration: none;
+  }
+   .already-have-account{
+    margin-top: 20px;
+    display: flex;
+    gap: 10px;
+    padding-left: 40px
+   }
+  
+  .login-signup-input-container {
+    width: 100%;
+    margin-bottom: 15px;
+    padding-left: 40px
+  }
+  
+  .login-signup-label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 5px;
+    color: #333;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+  }
+  
+  .login-signup-input {
+    width: 80%;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    margin-top: 5px;
+    font-size: 12px;
+    padding-left: 40px
+  }
+  .login-signup-box-login-signup-left{
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+   
+  }
+  .login-signup-button{
+    margin-left: 40px;
+    margin-top: 10px;
+    padding: 5px;
+    width: 100px;
+    background-color: #3E2C22;
+    border: none;
+    color: antiquewhite;
+  
+  }
+  .login-signup-p span{
+    color: rgb(175, 24, 24);
+  }
+  .login-image-con1{
+    width: 50%;
+    background-image: url(https://watanz.in/wp-content/uploads/2022/11/Amberville-Furniture.jpg);
+    background-repeat: no-repeat; /* Prevents the image from repeating */
+    background-size: cover; /* Scales the image to cover the element */
+    background-position: center;
+}
+.login-image-con1 img{
+  width: 100%;
+  height: 100%;
+}
+  
