@@ -77,7 +77,7 @@ const Login = () => {
               className="login-signup-input"
             />
           </div>
-           <button type="accountsubmit" className="login-signup-button">Sign Up</button>
+           <button type="accountsubmit" className="login-signup-button">Login</button>
         </form>
         <div className='already-have-account'>
         <p className="login-signup-p">Don't have an account?</p>
