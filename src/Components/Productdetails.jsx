@@ -46,18 +46,18 @@ const Productdetails = () => {
                 </div>
 
                 <div className='freedel'>
-                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiiWJmkFPS8b-j0elO7G8CI3UKRIY31ibqlQ&s" alt="" />
+                    <img src="https://res.cloudinary.com/dpdwvkw0m/image/upload/v1746288871/images_p2ykqk.jpg" alt="" />
                     <p><br /><br />FREE DELIVERY <br /> <br />Fulfilled by Simply Woods and Prime Eligible Items</p>
                 </div>
 
                 <div className='coupencon'>
-                    <img src="https://www.woodenstreet.com/images/offer/productcoupon.jpg?v=1301" alt="" />
+                    <img src="https://res.cloudinary.com/dpdwvkw0m/image/upload/v1746289063/emi-banner_vapymp.jpg" alt="" />
                 </div>
                 <div className='freedelivery'>
-                    <img src="https://m.media-amazon.com/images/G/31/A2I-Convert/mobile/IconFarm/trust_icon_free_shipping_81px._CB630870460_.png" alt="" />
-                    <img src="https://m.media-amazon.com/images/G/31/A2I-Convert/mobile/IconFarm/icon-returns._CB484059092_.png" alt="" />
-                    <img src="https://m.media-amazon.com/images/G/31/A2I-Convert/mobile/IconFarm/icon-top-brand._CB617044271_.png" alt="" />
-                    <img src="https://m.media-amazon.com/images/G/31/A2I-Convert/mobile/IconFarm/Secure-payment._CB650126890_.png" alt="" />
+                    <img src="https://res.cloudinary.com/dpdwvkw0m/image/upload/v1746288921/trust_icon_free_shipping_81px._CB630870460__fu5kvh.png" alt="" />
+                    <img src="https://res.cloudinary.com/dpdwvkw0m/image/upload/v1746288979/icon-returns._CB484059092__klg6oc.png" alt="" />
+                    <img src="https://res.cloudinary.com/dpdwvkw0m/image/upload/v1746289010/icon-top-brand._CB617044271__vbyb2s.png" alt="" />
+                    <img src="https://res.cloudinary.com/dpdwvkw0m/image/upload/v1746289033/Secure-payment._CB650126890__tcjxja.png" alt="" />
                 </div>
 
                 <div className='specialoffer'>
