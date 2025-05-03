@@ -1,0 +1,41 @@
+.account-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 50px;
+  font-family: Arial, sans-serif;
+}
+
+.account-title {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.account-buttons {
+  display: flex;
+  gap: 10px;
+}
+
+.account-buttons button {
+  padding: 10px 20px;
+  font-size: 16px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+}
+
+.account-buttons button:hover {
+  background-color: #f0f0f0;
+}
+
+.signbtn{
+  background-color: #e74c3c;
+  color: white;
+}
+
+.loginbtn{
+  background-color: #3498db;
+  color: white;
+}
